@@ -1,0 +1,19 @@
+# !/usr/bin/env ruby
+# This is what my program does
+# By mlu
+
+def function_a
+#code
+end
+
+def function_b
+#code
+end
+
+def main(ARGV)
+#main method
+function_a
+function_b
+end
+
+main(ARGV)
